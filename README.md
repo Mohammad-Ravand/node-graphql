@@ -1,20 +1,8 @@
-# Project Title
+
+# graphql with nodejs
 
 A Node.js and Apollo Server project for learning GraphQL with in-memory storage.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-  - [Running the Server](#running-the-server)
-  - [Exploring the GraphQL API](#exploring-the-graphql-api)
-- [Project Structure](#project-structure)
-- [GraphQL Schema](#graphql-schema)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -32,6 +20,9 @@ Make sure you have the following installed on your machine:
 ### Installation
 
 1. Clone the repository:
+2. npm install
+3. npm start
+4. go to browser http://localhost:4000/
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/Mohammad-Ravand/node-graphql.git
